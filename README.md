@@ -1,6 +1,6 @@
 # Selected Topics in Visual Recognition using Deep Learning
 
-# Goals
+# Introduction
 Visual recognition aims to enable computers to see, understand, and interpret the world like human visual systems. Deep learning technologies are at the core of the current machine vision revolution. Large-scale annotated data and affordable GPU hardware jointly allow the training of deep learning models with hundreds of layers and millions of parameters, which greatly improve the performance of various machine vision applications and even initiate new vision applications.
 
 # Syllabus
