@@ -1,4 +1,4 @@
-| Week | Date     |Topic                                                                                      | Course Material                                                                                               |  代稱   |
+| Week | Date     |Topic                                                                                      | Course Material                                                                                               |  Remarks   |
 | ---- | -------- | ------------------------------------------------------------------------------------------| ------------------------------------------------------------------------------------------------------------  | ------ |    
 |   1  |  09/12   | Introduction to Visual Recognition                                                        |                                                                                                               |        |
 |   2  |  09/19   | Conventional Machine Learning vs. Deep Learning                                           |                                                                                                               |        |
